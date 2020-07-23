@@ -3,7 +3,7 @@
   ## Demo
 
 
-  ![Uni-Buy gif](/uni-buy/assets/images/uni-buy.gif)
+  ![Uni-Buy gif](/assets/images/uni-buy.gif)
 
   
   [MP4 Demo](https://drive.google.com/file/d/1nFWW6Ccpwr9g2mQ8PpEp9VhTM6KkdYFU/view?usp=sharing)
