@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // Requiring passport as we've configured it
-app.use(session({ secret: "keyboard cat", resave: true, saveUninitialized: true }));
+app.use(session({ secret: process.env.secret, resave: true, saveUninitialized: true }));
 app.use(passport.initialize());
 app.use(passport.session());
 
