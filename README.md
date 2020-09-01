@@ -22,6 +22,12 @@
 
   This project was a collaborative effort between myself and my fellow programmers listed below in the [Contributors](#Contributors) section. We used the MVC (model-view-controller) paradigm for structuring our files.
 
+  ## Account
+  TEST ACCOUNT
+
+  * User: test@email.com
+  * Password: test123
+
   ## Table of Contents
 
   *  [Demo](#Demo)
@@ -29,6 +35,8 @@
   *  [Deployed](#Deployed)
 
   *  [Description](#Description)
+
+  *  [Test Accounts](#Account)
 
   *  [Technology](#Technology)
 
